@@ -1,0 +1,4 @@
+﻿Images courtesy of: https://www.kindpng.com/downpng/iimbxmh_atlas-png-flappy-bird-transparent-png/
+- "kindpng_1842511.png" was split into the parts. The chevron edges had to be adjusted, as did the Flappy bird frames.
+
+But credit to the original author for facilitating something that makes the simulator not look too shabby.
