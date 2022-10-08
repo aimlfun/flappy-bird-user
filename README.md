@@ -9,4 +9,4 @@ random course, along with scrolling and collision detection. At best, it's a dem
 
 Press [ENTER] to make Flappy to upwards. Don't do it too much. 
 
-If you crash into a pipe, it stops responding and falls to the bottom. The score is at the top of the form.
+If you crash into a pipe, it stops responding and falls to the bottom. The score is at the top of the form. Restart the game and try again.
